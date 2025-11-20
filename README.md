@@ -1,3 +1,19 @@
+# 💫 Hi 👋, I'm Abdul Sammad  
+**Cloud Engineer | DevOps Engineer | AWS Cloud Specialist | IT Support Specialist | Linux System Administrator | Cloud & Infrastructure Expert**
+
+📩 **Email:** sammad77067@gmail.com  
+💬 *Open for collaboration, projects & tech discussions.*
+
+---
+
+## 🔥 About Me
+- 🔭 **Currently Working On:** Deploying applications on Kubernetes  
+- 🌱 **Learning:** CI/CD pipelines & automation  
+- 👯 **Looking to Collaborate On:** 3-Tier Web Applications  
+- 🤝 **Need Help With:** Multiple DevOps & Cloud projects  
+- 💬 **Ask Me About:** Collaboration, Tech Support, DevOps, Cloud  
+- 📫 **Reach Me At:** sammad77067@gmail.com  
+- ⚡ **Fun Fact:** I Love Tech — and Tech Loves Me 😄
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdulsammad.muneer.9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abd-sysadmin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sammad77067@gmail.com) 
