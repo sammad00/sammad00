@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Abdul Sammad  
 **Cloud Engineer | DevOps Engineer | AWS Cloud Specialist | IT Support Specialist | Linux System Administrator | Cloud & Infrastructure Expert**
 
-📩 **Email:** sammad77067@gmail.com  
+📩 **Email:** absammadmuneer@gmail.com  
 💬 *Open for collaboration, projects & tech discussions.*
 
 ---
@@ -12,7 +12,7 @@
 - 👯 **Looking to Collaborate On:** 3-Tier Web Applications  
 - 🤝 **Need Help With:** Multiple DevOps & Cloud projects  
 - 💬 **Ask Me About:** Collaboration, Tech Support, DevOps, Cloud  
-- 📫 **Reach Me At:** sammad77067@gmail.com  
+- 📫 **Reach Me At:** absammadmuneer@gmail.com  
 - ⚡ **Fun Fact:** I Love Tech — and Tech Loves Me 😄
 
 ## 🌐 Socials:
